@@ -1,0 +1,7 @@
+E:\Code Academy\Lessons\VisualStudio\HomeTask\21052020HTWeekend\21052020HTWeekend\bin\Debug\21052020HTWeekend.exe.config
+E:\Code Academy\Lessons\VisualStudio\HomeTask\21052020HTWeekend\21052020HTWeekend\bin\Debug\21052020HTWeekend.exe
+E:\Code Academy\Lessons\VisualStudio\HomeTask\21052020HTWeekend\21052020HTWeekend\bin\Debug\21052020HTWeekend.pdb
+E:\Code Academy\Lessons\VisualStudio\HomeTask\21052020HTWeekend\21052020HTWeekend\obj\Debug\21052020HTWeekend.csprojAssemblyReference.cache
+E:\Code Academy\Lessons\VisualStudio\HomeTask\21052020HTWeekend\21052020HTWeekend\obj\Debug\21052020HTWeekend.csproj.CoreCompileInputs.cache
+E:\Code Academy\Lessons\VisualStudio\HomeTask\21052020HTWeekend\21052020HTWeekend\obj\Debug\21052020HTWeekend.exe
+E:\Code Academy\Lessons\VisualStudio\HomeTask\21052020HTWeekend\21052020HTWeekend\obj\Debug\21052020HTWeekend.pdb
