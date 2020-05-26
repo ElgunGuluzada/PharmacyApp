@@ -11,8 +11,7 @@ namespace _21052020HTWeekend
         public string TypeName ;
         private static int _id = 0;
         public readonly int Id;
-
-
+        
         public TypeDrug()
         {
             Id = _id;

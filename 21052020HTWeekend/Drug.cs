@@ -19,10 +19,10 @@ namespace _21052020HTWeekend
             Id = _id;
             _id++;
         }
-        public Drug(string name) : this()
-        {
-            Name = name;
-        }
+        //public Drug(string name) : this()
+        //{
+        //    Name = name;
+        //}
         public Drug(string name, Double price, int count) : this()
         {
             Name = name;
